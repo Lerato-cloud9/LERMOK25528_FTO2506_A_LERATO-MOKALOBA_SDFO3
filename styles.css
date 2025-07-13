@@ -17,9 +17,9 @@ img {
 }
 
 .container {
-  max-width: 800px;     
-  margin: 0 auto;       
-  padding: 20px;        
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 .btn {
@@ -87,11 +87,10 @@ img {
   font-weight: 600;
 }
 
-.profile-user-settings {
-  display: flex;
-  align-items: center;
-  gap: 10px; 
-  flex-wrap: wrap; 
+.profile-settings-btn {
+  font-size: 20px;
+  margin-left: 10px;
+  border: none;
 }
 
 .profile-stats {
