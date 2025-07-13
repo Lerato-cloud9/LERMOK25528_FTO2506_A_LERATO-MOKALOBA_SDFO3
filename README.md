@@ -11,16 +11,10 @@ This is a fun, Instagram-style profile page built with beginner-friendly HTML an
 
 ---
 
-## 🖼️ Project Preview
-
-![Screenshot of my Instagram-style pet profile](screenshot.png)
-
----
-
 ## 🧰 Tech Used
 
-- HTML5
-- CSS3 (with Flexbox)
+- HTML5  
+- CSS3 (with Flexbox)  
 - Font Awesome Icons
 
 ---
