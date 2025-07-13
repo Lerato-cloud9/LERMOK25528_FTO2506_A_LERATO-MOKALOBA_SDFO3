@@ -1,41 +1,32 @@
-# [SDF03] Lerato's CS Pets Instagram Profile 🐶🐱
+# [SDF03] Lerato's CS Pets Instagram Profile 🐾
 
-Welcome to my **CSS Layout Challenge** project!  
-This page is styled to look like an Instagram profile for CodeSpace Pets, created with beginner-friendly **HTML and CSS**.
-
----
-
-## 🌐 Live Site
-
-👉 [Click here to view my project](https://lerato-cloud9.github.io/LERMOK25528_FTO2506_A_LERATO-MOKALOBA_SDFO3/)
+Welcome to my CSS Layout Challenge!  
+This is a fun, Instagram-style profile page built with beginner-friendly HTML and CSS.
 
 ---
 
-## 📸 My Project Preview
+## 🌐 Live Demo
 
-![Screenshot of my CS Pets Instagram Profile](screenshot.png)
-
----
-
-## 📖 About the Challenge
-
-This project was part of the CodeSpace [SDF03] challenge.  
-The goal was to practice CSS layout techniques by building a fun and responsive Instagram-like profile page.
+👉 [Click here to view my project on GitHub Pages](https://lerato-cloud9.github.io/LERMOK25528_FTO2506_A_LERATO-MOKALOBA_SDFO3/)
 
 ---
 
-## 🧠 What I Learned
+## 🖼️ Project Preview
 
-- Flexbox layout
-- Styling profile cards
-- Font Awesome icons
-- Linking stylesheets and using image assets
+![Screenshot of my Instagram-style pet profile](screenshot.png)
 
 ---
 
-## 📂 Files Included
+## 🧰 Tech Used
 
-- `index.html`
-- `styles.css`
-- `images/` folder with pet photos and icons
+- HTML5
+- CSS3 (with Flexbox)
+- Font Awesome Icons
 
+---
+
+## 📝 Challenge Instructions
+
+See `CHALLENGE-BRIEF.MD` for the full brief and instructions.
+
+---
